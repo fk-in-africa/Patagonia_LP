@@ -13,7 +13,7 @@ MCとして各LCのLPをどう管理していくかはAIの戦略と調整中の
 
 ---
 # 運用改善について
-[基本ここと同じです](https://github.com/Yuki-k-lion/agrino)
+[基本ここと同じです](https://github.com/Yuki-k-lion/agrino)  
 ここには今後ページを更新する際のルールを書いていきます。  
 基本的なところは、 *Github Flow* に従うので、  
 下部も読んで置いてください。  
