@@ -9,3 +9,9 @@ MCとして各LCのLPをどう管理していくかはAIの戦略と調整中の
 
 ## Author
 [1819MCISkomatsu](https://github.com/Yuki-k-lion)
+
+
+
+============
+# そなえLP引き継ぎドキュメント
+作成中
