@@ -68,4 +68,4 @@ https://qiita.com/tbpgr/items/989c6badefff69377da7
 
 ---
 # そなえLP引き継ぎドキュメント
-作成中
+移行準備中
