@@ -5,7 +5,7 @@ MCとして各LCのLPをどう管理していくかはAIの戦略と調整中の
 ## 作成者
 [1718KBOGXDの大杉さん](https://github.com/hiroki0816)
 [もとのリポジトリ](https://github.com/hiroki0816/sonaeLP)
-
+[1819KBMarCoD山本くん](https://github.com/YukiYamamoto0222)
 
 ## Author
 [1819MCISkomatsu](https://github.com/Yuki-k-lion)
