@@ -61,13 +61,13 @@
 
   
 
-**参考記事**
+**参考記事**  
 [https://olein-design.com/blog/create-lp-1](https://olein-design.com/blog/create-lp-1)
 [https://liskul.com/landingpage-strategy-1295](https://liskul.com/landingpage-strategy-1295)
 
   
 
-**以下の流れの前提となるもの**
+**以下の流れの前提となるもの**  
 [https://2016.uxdaystokyo.com/article/five-stages-thet-makeup-the-ux.html](https://2016.uxdaystokyo.com/article/five-stages-thet-makeup-the-ux.html)
 
 UIデザインの基礎となる概念ですが、LPを考えていく際にも重要な考え方となるかと思います。  
@@ -76,7 +76,7 @@ UIデザインの基礎となる概念ですが、LPを考えていく際にも�
 
   
 
-**工数**
+**工数**  
 1. 顧客獲得戦略の整理  (YP書くのと同じくらい)
 2. LP目標と理想のユーザーの感情遷移の整理  (2h)
 3. LPに載せる情報項目と優先度/順番の整理(1h)
@@ -104,13 +104,13 @@ LPの画面を作っていく際に、どのような色/フォント/余白感�
 
   
 
-**参考記事**
+**参考記事**  
 
 [https://www.concentinc.jp/design_research/2014/04/tone-and-manner/](https://www.concentinc.jp/design_research/2014/04/tone-and-manner/)
 
   
 
-**工数**
+**工数**  
 1. コンセプトの言語化  (4h)
 2. デザインパターンの収集  (2h)
 3. チームでのすり合わせ  (1h)
@@ -141,11 +141,11 @@ LPの画面を作っていく際に、どのような色/フォント/余白感�
 
 リンクは[**こちら**](https://drive.google.com/drive/u/1/folders/1ClAUUn9kdMX3TsIFDbpBOMbcdFXAEGVU)
 
-**参考記事**
+**参考記事**  
 [https://ferret-plus.com/5955](https://ferret-plus.com/5955)
 [https://liginc.co.jp/367737](https://liginc.co.jp/367737)
 
-**工数**
+**工数**  
 1. ワイヤー作成  (3h)
 
   
@@ -170,7 +170,7 @@ PC画面だけでなくスマホでも見れるように今回は2パターン�
 
   
 
-**工数**
+**工数**  
 1. デザインカンプ作成  (6h)
 
   
@@ -208,10 +208,10 @@ PC画面だけでなくスマホでも見れるように今回は2パターン�
 
   
 
-**その便利ツール**
+**その便利ツール**  
 Studio([https://studio.design/ja](https://studio.design/ja))
 
-**工数**
+**工数**  
 1. コーディング  (10h)
 
   
@@ -261,7 +261,7 @@ LPをローンチした後に、ターゲットの方々の反応を回収/検�
 今回使用したXdファイルはドライブにあげてあるので、そちらをダウンロードして、マスターファイルにしてしまうのが良いかと思います。
 
   
-**参考記事**
+**参考記事**  
 [https://ics.media/entry/18004](https://ics.media/entry/18004)
 [https://ics.media/entry/18004](https://ics.media/entry/18004)
 
@@ -276,7 +276,7 @@ LPをローンチした後に、ターゲットの方々の反応を回収/検�
 現在は、github上にLC側でLPのコードを保存しているレポジトリという場所を作って、そこにあるコードを更新し次第、MC担当者に連絡し、実際のwebページへの反映するというフローになっています。
 
   
-**githubとは**
+**githubとは**  
 [https://techacademy.jp/magazine/6235](https://techacademy.jp/magazine/6235)
 
 
@@ -284,7 +284,7 @@ LPをローンチした後に、ターゲットの方々の反応を回収/検�
 
 共同編集者には以下の工程を行うと追加することができます。
 
-**githubにてプライベートレポジトリに共同編集者を追加する方法**
+**githubにてプライベートレポジトリに共同編集者を追加する方法**  
 [https://code-schools.com/github-invite/](https://code-schools.com/github-invite/)
 
   ```
@@ -325,10 +325,10 @@ LPをローンチした後に、ターゲットの方々の反応を回収/検�
 
 これらを一から説明するとすごい文量になってしまうので、参考書籍/記事を載せることで代替します。とても丁寧に書いてある記事なので、おすすめです。
 
-  **参考書籍**
+  **参考書籍**  
 [https://www.amazon.co.jp/exec/obidos/ASIN/4863542178/gooddays1-22/](https://www.amazon.co.jp/exec/obidos/ASIN/4863542178/gooddays1-22/)
 
- **参考記事**
+ **参考記事**  
 [https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)
 [http://jsstudy.hatenablog.com/entry/clone-a-repository-from-GitHub](http://jsstudy.hatenablog.com/entry/clone-a-repository-from-GitHub)
 
@@ -352,11 +352,11 @@ LPをローンチした後に、ターゲットの方々の反応を回収/検�
   
 ### ②デザインのおすすめの資料/勉強の仕方
 
-**デザインの基礎知識**
+**デザインの基礎知識**  
 「デザインはセンス」などと言われることも多々ありますが、絵画や彫刻等の自己表現をするためのアート/芸術とは異なり、特定の課題解決をするために視覚的(定義によりますが、ここでは所謂ビジュアルデザインを指します)な表現を用いる概念であるデザインは、理論を学び、良いデザインに触れ、練習を重ねれば適切なデザインを作れるようになります。ここでは、その理論の学ぶ上でオススメの書籍/サイトを載せておきます。
 
 
-**デザインの理論を学びたい方**
+**デザインの理論を学びたい方**  
 [ノンデザイナーズ・デザインブック ](https://www.amazon.co.jp/%E3%83%8E%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF-%E7%AC%AC4%E7%89%88-Robin-Williams/dp/4839955557/ref=sr_1_1?ie=UTF8&qid=1533643401&sr=8-1&keywords=%E3%83%8E%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
 
 [なるほどデザイン(https://www.amazon.co.jp/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%88%E7%9B%AE%E3%81%A7%E8%A6%8B%E3%81%A6%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%9C%AC%E3%80%82%E3%80%89-%E7%AD%92%E4%BA%95-%E7%BE%8E%E5%B8%8C/dp/4844365177/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=4844365177&pd_rd_r=e30180d8-9a39-11e8-ad37-27c7ea2ab43d&pd_rd_w=JNlH0&pd_rd_wg=aUZHz&pf_rd_i=desktop-dp-sims&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=053a78c4-e34f-47d4-9426-4d23f47a211d&pf_rd_r=F8JK2ZXFCKQ264SW2XTG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=F8JK2ZXFCKQ264SW2XTG)
@@ -365,18 +365,18 @@ LPをローンチした後に、ターゲットの方々の反応を回収/検�
 
   
 
-**良いデザインに触れたい方**
+**良いデザインに触れたい方**  
 [Pinterest ](https://www.pinterest.jp/)
 [dribblbe](https://dribbble.com/)
 
 
-**デザインツールの使い方**
+**デザインツールの使い方**  
 
 パワポやキーノートでも代替可能ですが、LPやweb制作をする際にはwebデザインやUIデザインに特化しているデザインツールを使うことをオススメしており、今回のLP制作でも使用しているAdobe Xdは入れておくのが良いかと思います。
 
   
 
-**参考記事**
+**参考記事**  
 
 [https://coliss.com/articles/build-websites/operation/design/adobe-xd-starter-kit.html](https://coliss.com/articles/build-websites/operation/design/adobe-xd-starter-kit.html)
 [https://note.mu/co_co_d3/n/n4e910ec83b60](https://note.mu/co_co_d3/n/n4e910ec83b60)
@@ -388,7 +388,7 @@ LPをローンチした後に、ターゲットの方々の反応を回収/検�
 
   
 
-**参考記事**
+**参考記事**  
 
 [https://www.internetacademy.jp/it/design.html](https://www.internetacademy.jp/it/design.html)
 
