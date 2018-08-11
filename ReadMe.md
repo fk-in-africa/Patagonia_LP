@@ -68,4 +68,4 @@ https://qiita.com/tbpgr/items/989c6badefff69377da7
 
 ---
 # そなえLP引き継ぎドキュメント
-移行準備中
+[LookThisDocks](https://github.com/Yuki-k-lion/sonaeLP/blob/master/info_docks.md#%E3%81%9D%E3%81%AA%E3%81%88lp%E5%BC%95%E3%81%8D%E7%B6%99%E3%81%8E%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88)
