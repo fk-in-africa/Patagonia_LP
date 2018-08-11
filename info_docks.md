@@ -225,7 +225,7 @@ Studio([https://studio.design/ja](https://studio.design/ja))
 
 ```
 20180811_MCIS_komatsu_add
-こちらはを[readme]()を見てください。
+こちらはを[readme](https://github.com/Yuki-k-lion/sonaeLP/tree/master)を見てください。
 
 ```  
 
