@@ -62,7 +62,7 @@ MCとして各LCのLPをどう管理していくかはAIの戦略と調整中の
 - masterへpushしたら、即デプロイをする
 
 ## Github markDownの書き方
-https://qiita.com/tbpgr/items/989c6badefff69377da7
+https://qiita.com/tbpgr/items/989c6badefff69377da7  
 https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 
 
