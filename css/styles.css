@@ -263,7 +263,16 @@ modal
 	margin-top: 2em;
 	font-weight: bold;
 }
-
+.card-description question{
+	font-weight: bold;
+}
+.card-description{
+	text-size: 12px;
+}
+.card-avatar{
+	font: lato;
+	color: #52565e;
+}
 /*以下AboutUs*/
 .aboutUs-box {
   text-align: center;
