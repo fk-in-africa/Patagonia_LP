@@ -252,6 +252,18 @@ header {
 
 /*supportsここまで*/
 
+/*==========
+modal
+===========*/
+
+.modal-content{
+	padding:2em;
+}
+.question{
+	margin-top: 2em;
+	font-weight: bold;
+}
+
 /*以下AboutUs*/
 .aboutUs-box {
   text-align: center;
