@@ -391,6 +391,9 @@ modal
   width: 80%;
   text-align: justify;
 }
+.card card-profile card-plain{
+	display: incline-block;
+}
 /*Messageここまで*/
 
 /*以下bottom-message*/
