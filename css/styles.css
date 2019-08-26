@@ -161,6 +161,7 @@ a {
 .about-text-main {
   font-size: 30px;
   letter-spacing: 0.07em;
+  background: linear-gradient(-135deg, #E4A972, #9941D8);
 }
 
 .about-text {
