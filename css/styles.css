@@ -332,7 +332,105 @@ modal
   padding-bottom:30px;
 }
 /*Featuresここまで*/
-
+/*以下Voices*/
+section .stories {
+    display: flex;
+    align-items: center; }
+    @media screen and (min-width: 801px) {
+      section .stories {
+        justify-content: space-between;
+        max-width: 1000px;
+        margin: 0 auto; } }
+    @media screen and (max-width: 800px) {
+      section .stories {
+        justify-content: flex-start;
+        flex-direction: column;
+        padding: 32px; } }
+    section .stories .item {
+      text-align: center;
+      padding: 8px;
+      color: #000;
+      text-decoration: none;
+      transition: box-shadow .4s; }
+      @media screen and (min-width: 801px) {
+        section .stories .item {
+          width: 304px; }
+          section .stories .item:not(.blank):hover {
+            box-shadow: 0 0 1px #F05A3C; }
+          section .stories .item .story_icon {
+            width: 280px;
+            height: 173px;
+            display: block;
+            margin: 0 auto; }
+            section .stories .item .story_icon img {
+              width: 100%;
+              height: 100%;
+              -o-object-fit: cover;
+                 object-fit: cover; } }
+      @media screen and (max-width: 800px) {
+        section .stories .item {
+          width: 100%; } }
+      section .stories .item .story_icon {
+        width: 100%;
+        position: relative; }
+        section .stories .item .story_icon::before {
+          content: "";
+          display: block;
+          width: 100%;
+          padding-top: 61.8%; }
+        section .stories .item .story_icon img {
+          display: block;
+          width: 100%;
+          height: auto;
+          position: absolute;
+          top: 0;
+          -o-object-fit: cover;
+             object-fit: cover;
+          height: 100%;
+          left: 0; }
+      section .stories .item h3 {
+        margin-bottom: 8px; }
+      section .stories .item h4 {
+        margin: 1rem 0 4px; }
+      section .stories .item span {
+        font-size: 0.8em; }
+      section .stories .item p {
+        margin: 0 0 1fr; }
+  section .story_pics {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: 0 auto; }
+    @media screen and (min-width: 801px) {
+      section .story_pics {
+        grid-template-rows: 200px 200px;
+        grid-gap: 24px;
+        width: 800px; } }
+    @media screen and (max-width: 800px) {
+      section .story_pics {
+        grid-template-rows: 120px 120px;
+        grid-gap: 0px;
+        width: 100%; } }
+    section .story_pics img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      -o-object-fit: cover;
+         object-fit: cover; }
+    section .story_pics img:nth-child(1) {
+      grid-column: 1/3;
+      grid-row: 1/3; }
+    section .story_pics img:nth-child(2) {
+      grid-column: 3/5;
+      grid-row: 1/2; }
+    section .story_pics img:nth-child(3) {
+      grid-column: 3/4;
+      grid-row: 2/3; }
+    section .story_pics img:nth-child(4) {
+      grid-column: 4/5;
+      grid-row: 2/3; }
+  section .story_container h2, section .story_container h3 {
+    margin-top: 48px;
+    margin-bottom: 24px; }
 /*以下Message*/
 
 .message-box {
@@ -551,76 +649,6 @@ footer {
   }
 
 }
-/* profile card */
-.wrapper {
-  /* the dimensions of the wrapper will define the size of the card */
-  width: 50%;
-  min-width: 300px;
-  max-width: 800px;
-  position: relative;
-  padding: 100px 50px;
-  margin: auto;
-}
 
-/* CARD STYLES, IMPORTANT STUFF */
 
-.card-voicefromex-eps {
-  /* card occupies the full width of the container */
-  width: 100%;
-  box-sizing: border-box;
-  font-size: 12px;
-  font-family: Lato;
-  border: 1px solid #fff; /* on MD site it looks better without border */
-  padding: 25px;
-  box-shadow: 0 0 5px 1px #fff inset;
-  background-image: linear-gradient(-135deg, #E4A972, #9941D8);
-}
-
-.card p {
-  text-align: justify;
-}
-
-.img main-img {
-  float: center;
-  border-radius: 50%;
-  margin-bottom: 10px;
-  width: 10%;
-  padding: 5px;
-}
-
-h3 {
-  font-size: 2em;
-}
-
-h3 span {
-  font-weight: lighter;
-}
-
-.name {
-  margin-left: 10px;
-  margin-top: 20px;
-  text-align: center;
-  letter-spacing: 2px;
-}
-
-.about {
-  clear: left;
-}
-
-.about * {
-  padding: 0 10px;
-  margin: 10px 0;
-}
-
-.about a {
-  text-decoration: none;
-  padding: 0;
-  color: inherit;
-  font-style: lato;
-  font-weight: bold;
-}
-
-.about a:hover {
-  text-decoration: underline;
-}
 
